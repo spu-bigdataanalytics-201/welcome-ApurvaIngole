@@ -5,7 +5,7 @@
 You made it! This is our start of a journey for the next few months! 
 
 In this introductory repository, you will be guided to the concepts and ways of how we will be doing the class, assignments, and participations. Each section in below will tell you about itself.
-
+fdghjkjhghf
 ## How to Prepare to the First Class
 
 Things you will need to prepare before the first class is the things you will be using during the course of this class. Following is the stuff you need to be prepared for.
